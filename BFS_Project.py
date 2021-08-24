@@ -51,7 +51,8 @@ params['insta_id'] = ''
 hs = re.compile(r'#\w+')
 
 q = deque()
-q.append('travel')
+target = input("Enter the parent hashtag : ")
+q.append(target)
 vis = {}
 encntr = []
 #You can increase or decrease this variable based on you Graph API limit
