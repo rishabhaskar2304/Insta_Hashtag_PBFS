@@ -40,16 +40,12 @@ wb = openpyxl.Workbook()
 sheet = wb.active
 
 params = {}
-#Enter you app details
+#Enter your app details
 params['access_token'] = ''
-params['client_id'] = ''
-params['client_secret'] = ''
 params['graph_domain'] = 'https://graph.facebook.com/'
 params['graph_version'] = 'v11.0'
 params['endpoint_base'] = params['graph_domain'] + params['graph_version'] + '/'
-params['page_id'] = ''  
 params['insta_id'] = ''               
-params['insta_username'] = ''
 
 #Regular expression for segregating hashtags out of whole caption
 hs = re.compile(r'#\w+')
