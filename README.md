@@ -11,8 +11,8 @@ P.S. - By default the script will only request 1 node(*Hashtag*) because of API 
 > You can query a maximum of 30 unique hashtags within a 7 day period.
 
 and that is exactly why the Breadth-First-Search has to be prioritized for better results.
-But you can change `api_call_limit` variable in the script according to yourneed and weekly limit left.
-
+But you can change `api_call_limit` variable in the script according to your need and weekly limit left.
+ 
 I have equally distributed priority contribution among likes associated with each hashtag, number of occurences of the hashtag and minimum rank(position of hashtag in the top-media page) in the search.
 
 
