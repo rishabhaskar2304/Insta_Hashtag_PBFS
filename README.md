@@ -1,7 +1,7 @@
 # Insta_Hashtag_PBFS
 Python script that does a Prioritized Breadth First Search on a Hashtag using Instagram Graph API to find related and High traffic/growth hashtags from the root hashtag.
 
-Create a facebook app from [developers.facebook](https://developers.facebook.com/) and add necessary permissons, then insert **Your Access Token and Instagram ID** *(not username)* in the script.
+Register a facebook app on [developers.facebook](https://developers.facebook.com/) and add necessary permissons, then insert **Your Access Token and Instagram ID** *(not username)* in the script.
 
 Dependencies : **openpyxl, re**
 
