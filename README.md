@@ -20,3 +20,5 @@ I have equally distributed priority contribution among likes associated with eac
 
 
 I would like to thank [Justin Stolpe](https://github.com/jstolpe) for his amazing [videos](https://www.youtube.com/c/justinstolpe/playlists).
+
+IEEE Research Paper on the topic: https://ieeexplore.ieee.org/document/9734217
